@@ -1,0 +1,29 @@
+﻿Построение начато 25.05.2025 16:29:18.
+     1>Проект "C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\clrKIRModuleLib\clrKIRModuleLib.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\clrKIRModuleLib.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRClassLib\Debug" clrKIRClassLib.lib /MANIFEST /ManifestFile:"Debug\clrKIRModuleLib.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\KIRmodule.obj
+         Debug\AssemblyInfo.obj
+         Debug\clrKIRModuleLib.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Создается библиотека C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.lib и объект C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.exp
+         clrKIRModuleLib.vcxproj -> C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\Debug\clrKIRModuleLib.dll;#2" /manifest Debug\clrKIRModuleLib.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\clrKIRModuleLib.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\clrKIRModuleLib.lastbuildstate".
+     1>Построение проекта "C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrKIRModuleLib\clrKIRModuleLib\clrKIRModuleLib.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.91

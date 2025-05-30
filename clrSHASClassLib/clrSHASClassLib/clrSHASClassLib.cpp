@@ -1,0 +1,6 @@
+// ������� DLL-����.
+
+
+#include "clrSHASClassLib.h"
+
+

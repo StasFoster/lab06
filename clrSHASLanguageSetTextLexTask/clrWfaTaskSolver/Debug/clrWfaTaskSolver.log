@@ -1,0 +1,38 @@
+﻿Построение начато 29.05.2025 16:08:05.
+     1>Проект "C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\clrWfaTaskSolver\clrWfaTaskSolver.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\clrWfaTaskSolver.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         D:\VS\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt clrWfaTaskSolver.cpp /clr:nostdlib 
+         clrWfaTaskSolver.cpp
+     1>c:\users\msalo\onedrive\dokument\visual studio 2010\projects\lab06\clrshaslanguagesettextlextask\clrwfatasksolver\Form1.h(770): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\msalo\onedrive\dokument\visual studio 2010\projects\lab06\clrshaslanguagesettextlextask\clrwfatasksolver\Form1.h(845): warning C4101: sPassC: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\Debug\clrWfaTaskSolver.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\clrWfaTaskSolver.Form1.resources /MANIFEST /ManifestFile:"Debug\clrWfaTaskSolver.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\Debug\clrWfaTaskSolver.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\kaLex.obj
+         Debug\TIdent.obj
+         Debug\TIdentList.obj
+         Debug\TLexem.obj
+         Debug\TLexemList.obj
+         Debug\SHASProcess.obj
+         Debug\AssemblyInfo.obj
+         Debug\clrWfaTaskSolver.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         clrWfaTaskSolver.vcxproj -> C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\Debug\clrWfaTaskSolver.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\Debug\clrWfaTaskSolver.exe;#1" /manifest Debug\clrWfaTaskSolver.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\clrWfaTaskSolver.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\clrWfaTaskSolver.lastbuildstate".
+     1>Построение проекта "C:\Users\msalo\OneDrive\Dokument\Visual Studio 2010\Projects\lab06\clrSHASLanguageSetTextLexTask\clrWfaTaskSolver\clrWfaTaskSolver.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.47

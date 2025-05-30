@@ -1,0 +1,7 @@
+// ������� DLL-����.
+
+
+
+#include "clrSHASModuleLib.h"
+
+

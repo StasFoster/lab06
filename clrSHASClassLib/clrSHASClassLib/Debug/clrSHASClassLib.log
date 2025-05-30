@@ -1,0 +1,34 @@
+﻿Построение начато 17.05.2025 16:34:12.
+     1>Проект "C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\clrKIRClassLib\clrKIRClassLib.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\clrKIRClassLib.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ..\..\ClassDll\TTask.cpp AssemblyInfo.cpp clrKIRClassLib.cpp /clr:nostdlib 
+         TTask.cpp
+         AssemblyInfo.cpp
+         clrKIRClassLib.cpp
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\ilyak\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\clrKIRClassLib.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\TTask.obj
+         Debug\AssemblyInfo.obj
+         Debug\clrKIRClassLib.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Создается библиотека C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.lib и объект C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.exp
+         clrKIRClassLib.vcxproj -> C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\Debug\clrKIRClassLib.dll;#2" /manifest Debug\clrKIRClassLib.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\clrKIRClassLib.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\clrKIRClassLib.lastbuildstate".
+     1>Построение проекта "C:\Users\ilyak\OneDrive\Desktop\UPRK21-2025\ReshetnyakKI\lab02\clrKIRClassLib\clrKIRClassLib\clrKIRClassLib.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.60
